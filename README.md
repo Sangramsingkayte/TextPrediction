@@ -3,8 +3,11 @@ Recent Google and Facebook focused on behind-the-scenes mechanisms of text predi
 
 
 #Requirements
+
 matplotlib==2.2.2
+
 six==1.11.0
+
 requests==2.20.0
 tensorflow_serving_api==1.9.0
 numpy==1.14.5
