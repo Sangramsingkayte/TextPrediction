@@ -3,4 +3,4 @@ Recent Google and Facebook focused on behind-the-scenes mechanisms of text predi
 
 
 
-https://medium.com/@sangramsing/text-prediction-using-long-short-term-memory-27d5b4fa6c9f
+https://medium.datadriveninvestor.com/text-prediction-using-long-short-term-memory-a42fc66e22c3
